@@ -27,16 +27,17 @@
       max-width: 600px;
       margin: 0 auto;
     }
-    .tagline {
+    .tailwind {
+      font-size: 1.5rem;
+      margin-top: 1rem;
       color: #58a6ff;
       font-style: italic;
-      margin-top: 1rem;
     }
   </style>
 </head>
 <body>
-  <h1>AnglerByte</h1>
-  <p>Where performance meets precision. A digital space for hardware optimization, creative branding, and system design.</p>
-  <p class="tagline">Crafted with intention. Tuned for balance.</p>
+  <h1>Welcome to AnglerByte</h1>
+  <p>This is a test page for the AnglerByte project.</p>
+  <div class="tailwind">Tailwind CSS is awesome!</div>
 </body>
 </html>
