@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Portfolio | AnglerByte</title>
+  <link rel="stylesheet" href="../css/style.css" />
+  <style>
+    body {
+      background-color: #111;
+      color: #eee;
+      font-family: 'Segoe UI', sans-serif;
+      text-align: center;
+      padding: 2rem;
+    }
+    h1 {
+      font-size: 2rem;
+      margin-bottom: 1rem;
+    }
+    .sample {
+      background-color: #222;
+      border-left: 4px solid #0078d7;
+      margin: 1rem auto;
+      padding: 1rem;
+      max-width: 600px;
+      text-align: left;
+    }
+    a {
+      color: #66ccff;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <h1>Writing Portfolio</h1>
+  <p>Mock articles and editorial samples that blend technical clarity with personal voice.</p>
+
+  <div class="sample">
+    <h2>Optimizing Multi-Rig Workflows</h2>
+    <p>How I configured Thor and my primary rig for seamless task-switching and comfort.</p>
+    <a href="#">Read more</a>
+  </div>
+
+  <div class="sample">
+    <h2>Emotional Intelligence in Tech Support</h2>
+    <p>Exploring how empathy and strategy shape better customer service outcomes.</p>
+    <a href="#">Read more</a>
+  </div>
+
+  <footer>
+    <p>&copy; 2025 Quinten | AnglerByte</p>
+  </footer>
+</body>
+</html>
